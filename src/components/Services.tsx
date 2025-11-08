@@ -16,7 +16,6 @@ const services = [
     features: [
       "Asset collection & evaluation",
       "Certified data security measures",
-      "Refurbishment & resale of reusable devices",
       "Eco-friendly recycling",
       "Complete documentation & traceability"
     ]
