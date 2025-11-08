@@ -24,9 +24,10 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-2">Address</h3>
                     <p className="text-muted-foreground leading-relaxed">
-                      Plot No. 48B, 6th Street, North Phase,<br />
-                      Ambattur Industrial Estate,<br />
-                      Chennai District, Tamil Nadu, India
+                      S.F
+                      No. 159/1,161,162/2,166/1 &166/2 part, Ward D, Block No.0015, Town Survey No.8, Plot No.48B,
+                      (N.P), Pattravakkam village, Ambattur Industrial Estate PATTRAVAKKAM Village Ambattur
+                      Taluk Chennai District.
                     </p>
                   </div>
                 </div>
